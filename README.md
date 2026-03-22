@@ -5,7 +5,7 @@ With **11 years of experience** in software quality, I specialize in the interse
 
 ### 🔧 Tech Stack
 
-* * **AI/ML:** Google Gemini, RAG Architecture, Prompt Engineering
+* **AI/ML:** Google Gemini, RAG Architecture, Prompt Engineering
 * **Automation**: Cypress, Playwright
 * **Languages**: Python, JavaScript
 * **CI/CD:** GitHub Actions, Jenkins
