@@ -21,4 +21,5 @@ With **11 years of experience** in software quality, I specialize in the interse
 - GitHub Actions for CI/CD in QA
 - Integrating LLMs into daily QA workflows
 
+---
 Thanks for visiting! 🚀
