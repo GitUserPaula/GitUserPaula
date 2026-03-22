@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pau
 
 ### Senior Quality Engineer | AI-Augmented Testing Specialist 🚀 
-With **11 years of experience** in software quality, I specialize in the intersection of **Quality Engineering and Generative AI**. I advocate for "Quality as a Strategy," focusing on Shift-Left testing and building intelligent tools to accelerate delivery
+With **10+ years of experience** in software quality, I specialize in the intersection of **Quality Engineering and Generative AI**. I advocate for "Quality as a Strategy," focusing on Shift-Left testing and building intelligent tools to accelerate delivery
 
 ### 🔧 Tech Stack
 
