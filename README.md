@@ -3,6 +3,12 @@
 ### Senior Quality Engineer | AI-Augmented Testing Specialist 🚀 
 With **10+ years of experience** in software quality, I specialize in the intersection of **Quality Engineering and Generative AI**. I advocate for "Quality as a Strategy," focusing on Shift-Left testing and building intelligent tools to accelerate delivery
 
+### 📊 Featured Projects
+- **[Aurora Engineer Suite](https://github.com/GitUserPaula/aurora-quality-hub)** – AI-powered platform designed to unify QA strategy, reporting, and AI-augmented testing workflows
+- **[Altair Docs](https://github.com/GitUserPaula/altair-docs-ai-assistant)** – AI-powered QA Assistant demo using RAG to optimize software quality workflows
+- **[Cypress QA Practice](https://github.com/GitUserPaula/qa-js-automation)** – E2E testing with Page Objects and data-driven approach
+- **[Python QA Practice](https://github.com/GitUserPaula/qa-automation)** –  E2E testing, code practices, modular configuration, and automated execution through CI/CD pipelines
+
 ### 🛠️ Tech Stack
 
 * **🤖 AI/ML:** Google Gemini (2.5/3.0), RAG Architecture, Advanced Prompt Engineering
@@ -10,12 +16,6 @@ With **10+ years of experience** in software quality, I specialize in the inters
 * **🐍 Languages:** Python, JavaScript (Node.js)
 * **⚙️ CI/CD:** GitHub Actions (Native) 
   * *Enterprise Ready:* Architected for compatibility with **Azure DevOps** and **Jenkins** environments.
-
-### 📊 Featured Projects
-- **[Aurora Engineer Suite](https://github.com/GitUserPaula/aurora-quality-hub)** – AI-powered platform designed to unify QA strategy, reporting, and AI-augmented testing workflows
-- **[Altair Docs](https://github.com/GitUserPaula/altair-docs-ai-assistant)** – AI-powered QA Assistant demo using RAG to optimize software quality workflows
-- **[Cypress QA Practice](https://github.com/GitUserPaula/qa-js-automation)** – E2E testing with Page Objects and data-driven approach
-- **[Python QA Practice](https://github.com/GitUserPaula/qa-automation)** –  E2E testing, code practices, modular configuration, and automated execution through CI/CD pipelines
 
 ### 🌱 Currently learning
 - Playwright for cross-browser testing
