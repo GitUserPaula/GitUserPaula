@@ -13,7 +13,7 @@ With **10+ years of experience** in software quality, I specialize in the inters
 ### 🛠️ Tech Stack
 
 * **🤖 AI/ML:** Google Gemini (2.5/3.0), RAG Architecture, Advanced Prompt Engineering
-* **🧪 Automation:** Cypress (JavaScript), Playwright (Python)
+* **🧪 Automation:** Cypress, Playwright
 * **🐍 Languages:** Python, JavaScript (Node.js)
 * **⚙️ CI/CD:** GitHub Actions (Native) 
   * *Enterprise Ready:* Architected for compatibility with **Azure DevOps** and **Jenkins** environments.
